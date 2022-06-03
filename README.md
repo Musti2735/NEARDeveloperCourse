@@ -2,8 +2,10 @@
 
 https://app.patika.dev/ 
 
-Near Developer 
+Near Developer Web3 Course
+
 Course Practice-1 
+
 Task-1
 Task-2
 Task-3
